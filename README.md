@@ -1,3 +1,4 @@
+f00cd197b4a9873f36093d4f4748b733642059a7
 ## Supported boards
 
 Soc | Boards |
